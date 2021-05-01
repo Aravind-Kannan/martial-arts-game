@@ -1,5 +1,8 @@
 # martial-arts-game
 
+Project: Martial Arts Game
+Capstone Project of `Pupilfirst School`'s Web Development 101.
+
 ---
 
 **Pre requisite:** Git must be installed on your computer locally

@@ -1,6 +1,7 @@
 # martial-arts-game
 
 Project: Martial Arts Game
+
 Capstone Project of `Pupilfirst School`'s Web Development 101.
 
 ---
